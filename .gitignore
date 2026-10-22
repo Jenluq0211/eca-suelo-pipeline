@@ -1,3 +1,20 @@
 __pycache__/
+*.pyc
+
+#Excel de entrada
 *.xlsx
+
+#Logs
 *.log
+
+#Archivos Temporales
+*.temp
+
+#Resultados Generados
+output/
+
+#Reportes
+reportes/
+
+#Configuraciones Locales
+.vscode/
