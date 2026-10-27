@@ -342,3 +342,5 @@ except Exception as e:
     print("\nERROR SQL")
 
     print(e)
+
+    print("Modulo PostgreSQL implementado")
